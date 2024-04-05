@@ -1,7 +1,7 @@
  <!DOCTYPE html>
 <html>
 body {
- background-image: url('bg.jpg');
+ background-image: url('My_Bedroom_From_My_Bed.jpg');
  background-position: center center;
  background-size: cover; /* or background-size: contain */
 }
