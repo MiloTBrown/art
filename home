@@ -1,0 +1,8 @@
+ <!DOCTYPE html>
+<html>
+body {
+ background-image: url('bg.jpg');
+ background-position: center center;
+ background-size: cover; /* or background-size: contain */
+}
+</html> 
